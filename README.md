@@ -1,2 +1,2 @@
-# sanek-game
+# snake-game
  
