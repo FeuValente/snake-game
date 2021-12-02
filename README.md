@@ -1,4 +1,4 @@
-<h1 align="center">Dashboard</h1>
+<h1 align="center">Snake Game</h1>
 
 
 
